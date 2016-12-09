@@ -1,0 +1,23 @@
+{
+    "appApp": {
+        "fornecedor" : {
+            "home": {
+                "title": "Fornecedors",
+                "createLabel": "Criar novo Fornecedor",
+                "createOrEditLabel": "Criar ou editar Fornecedor",
+                "search": "Pesquisar por Fornecedor"
+            },
+            "created": "Um novo Fornecedor é criado com o identificador {{ param }}",
+            "updated": "Um Fornecedor é atualizado com o identificador {{ param }}",
+            "deleted": "Um Fornecedor é deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Fornecedor {{ id }}?"
+            },
+            "detail": {
+                "title": "Fornecedor"
+            },
+            "nome": "Nome",
+            "cidade": "Cidade"
+        }
+    }
+}
